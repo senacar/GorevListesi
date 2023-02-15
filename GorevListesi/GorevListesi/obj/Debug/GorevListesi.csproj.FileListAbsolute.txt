@@ -1,0 +1,12 @@
+C:\Users\Ahmet Serhat Acar\OneDrive\Masaüstü\GorevListesi\GorevListesi\obj\Debug\GorevListesi.csproj.AssemblyReference.cache
+C:\Users\Ahmet Serhat Acar\OneDrive\Masaüstü\GorevListesi\GorevListesi\obj\Debug\GorevListesi.Form1.resources
+C:\Users\Ahmet Serhat Acar\OneDrive\Masaüstü\GorevListesi\GorevListesi\obj\Debug\GorevListesi.Properties.Resources.resources
+C:\Users\Ahmet Serhat Acar\OneDrive\Masaüstü\GorevListesi\GorevListesi\obj\Debug\GorevListesi.csproj.GenerateResource.cache
+C:\Users\Ahmet Serhat Acar\OneDrive\Masaüstü\GorevListesi\GorevListesi\obj\Debug\GorevListesi.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet Serhat Acar\OneDrive\Masaüstü\GorevListesi\GorevListesi\bin\Debug\GorevListesi.exe.config
+C:\Users\Ahmet Serhat Acar\OneDrive\Masaüstü\GorevListesi\GorevListesi\bin\Debug\GorevListesi.exe
+C:\Users\Ahmet Serhat Acar\OneDrive\Masaüstü\GorevListesi\GorevListesi\bin\Debug\GorevListesi.pdb
+C:\Users\Ahmet Serhat Acar\OneDrive\Masaüstü\GorevListesi\GorevListesi\obj\Debug\GorevListesi.exe
+C:\Users\Ahmet Serhat Acar\OneDrive\Masaüstü\GorevListesi\GorevListesi\obj\Debug\GorevListesi.pdb
+C:\Users\Ahmet Serhat Acar\OneDrive\Masaüstü\GorevListesi\GorevListesi\obj\Debug\GorevListesi.GorevTablosu.resources
+C:\Users\Ahmet Serhat Acar\OneDrive\Masaüstü\GorevListesi\GorevListesi\obj\Debug\GorevListesi.GuncellemePaneli.resources
